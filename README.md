@@ -1,4 +1,10 @@
 <!--
 **Codebmk/Codebmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="Codebmk/Codebmk"><img src="https://github.com/Codebmk/Codebmk/blob/main/devcard.svg" width="400" alt="Codebmk"/></a>
+# Hi there 👋
+
+<div align="center">
+  <a href="https://app.daily.dev/belindamarionk">
+    <img width="256" align="center" src="https://raw.githubusercontent.com/Codebmk/Codebmk/main/devcard.svg" width="400" alt="Codebmk"/>
+  </a>
+</div>
