@@ -4,8 +4,4 @@
 
 # Hi there 👋
 
-<div align="center">
-  <a href="https://app.daily.dev/belindamarionk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/Codebmk/Codebmk/main/devcard.svg" width="400" alt="Codebmk"/>
-  </a>
-</div>
+<div align="center"></div>
