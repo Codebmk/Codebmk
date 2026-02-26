@@ -38,6 +38,4 @@
 
 
 ### Latest Build Insights
-* 💡 *Optimizing Electron wrappers for low-spec hardware.*
-* 📈 *State management patterns for real-time financial dashboards.*
 * 🏗️ *Building design systems that scale across IoT and Fintech products.*
