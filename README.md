@@ -1,41 +1,66 @@
-<!--
-**Codebmk/Codebmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hi, I'm Belinda Marion Kobusingye 👋  
 
-# Hi, I'm Belinda Marion K 👋
+📍 **Kampala, Uganda** | 🌍 **IoT Infrastructure & Fintech Systems** | 🧠 **Frontend Engineer → Product-Driven Systems Builder**
 
-📍 **Kampala, Uganda** | 🛠️ **IoT & Fintech Builder** | 🚀 **Frontend Engineer**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+> Building high-impact digital platforms powering air quality infrastructure across Africa and financial access products used at scale.
 
 
-## Current Projects
+## Tech Stack
 
-### 📡 IoT & Environmental Tech
-* 🏔️ [**Vertex**](https://github.com/airqo-platform/AirQo-frontend/tree/staging/src/vertex) – Core platform for air quality device management.
-* 🖥️ [**Vertex Desktop**](https://github.com/airqo-platform/AirQo-frontend/tree/staging/src/vertex-desktop) – An Electron-based wrapper of Vertex.
-* 📖 [**Docs-Website**](https://github.com/airqo-platform/AirQo-frontend/tree/staging/src/docs-website) – Led the initiative to build the digital product documentation ecosystem for AirQo.
-* 📊 [**Analytics**](https://github.com/airqo-platform/AirQo-frontend/tree/staging/src/platform) – Air quality data access platform, turning raw sensor data into actionable insights.
-
-### 💳 Fintech & Capital
-* 📱 **Pasbanc Mobile** – A robust financial engine for personal, business, and salary-based lending.
-* 🎯 **Investor Mobile** – A goal-based savings application designed to help users build long-term wealth.
-
-
-## What I'm Doing
-
-* **Frontend Orchestration** – Crafting pixel-perfect, performant interfaces that make complex IoT and financial data feel intuitive.
-* **Scaling Financial Access** – Engineering the UI/UX for systems that bridge the gap between capital and the people who need it.
-* **Electron Optimization** – Bridging the web and desktop gap through efficient cross-platform development.
-* **Leading Documentation** – Ensuring that technical excellence is backed by world-class documentation.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-## Connect
+# Core Work
 
-[<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">](https://github.com/Codebmk)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/belindamarionk)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">](https://x.com/belindamarionk)
+### Air Quality Infrastructure
+
+- [**Vertex**](https://github.com/airqo-platform/AirQo-frontend/tree/staging/src/vertex) – IoT device & network management platform  
+- [**Vertex Desktop**](https://github.com/airqo-platform/AirQo-frontend/tree/staging/src/vertex-desktop) – Electron-based desktop wrapper  
+- [**Analytics Platform**](https://github.com/airqo-platform/AirQo-frontend/tree/staging/src/platform) – Air quality data access & visualization  
+- [**Docs Website**](https://github.com/airqo-platform/AirQo-frontend/tree/staging/src/docs-website) – Engineering documentation ecosystem  
+
+### Fintech Systems
+
+- **Pasbanc Mobile** – Personal & business lending platform  
+- **Investor Mobile** – Goal-based savings application  
 
 
-### Latest Build Insights
-* 🏗️ *Building design systems that scale across IoT and Fintech products.*
+# GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Codebmk)
+
+
+# What I Focus On
+
+- **Frontend Architecture** – Building scalable React systems, not just screens  
+- **Complex Data Interfaces** – Making IoT and financial systems intuitive  
+- **Cross-Platform Systems** – Bridging Web, Mobile, and Desktop  
+- **Performance & Reliability** – Infrastructure products can’t lag  
+- **Documentation & Knowledge Systems** – Great engineering is visible engineering  
+
+# Connect
+
+[![GitHub](https://img.shields.io/badge/-Follow_Codebmk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Codebmk)
+[![LinkedIn](https://img.shields.io/badge/-Belinda_Marion_Kobusingye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/belindamarionk)
+[![X](https://img.shields.io/badge/-@belindamarionk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/belindamarionk)
+
+
+# Direction
+
+Currently:
+
+- Deepening system design & distributed architecture knowledge  
+- Exploring cloud infrastructure & SRE practices  
+- Building tools at the intersection of data, infrastructure, and financial systems  
+
+> Systems over hacks. Scale over shortcuts. Clarity over complexity.
