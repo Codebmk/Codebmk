@@ -1,7 +1,6 @@
 # Hi, I'm Belinda Marion Kobusingye 👋  
 
-📍 **Kampala, Uganda** | 🌍 **IoT Infrastructure & Fintech Systems** | 🧠 **Frontend Engineer → Product-Driven Systems Builder**
-🏆 **[Top 20 Open Source Contributors in Uganda](https://committers.top/uganda.html)**
+📍 **Kampala, Uganda** | 🌍 **IoT Infrastructure & Fintech Systems** | 🧠 **Frontend Engineer → Product-Driven Systems Builder** | 🏆 **[Top 20 Open Source Contributors in Uganda](https://committers.top/uganda.html)**
 
 > Building high-impact open data platforms powering air quality infrastructure in 15+ African countries and financial access products used at scale.
 
