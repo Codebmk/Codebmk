@@ -31,8 +31,8 @@
 
 ### Fintech Systems
 
-- **Pasbanc Mobile** – Personal & business lending platform  
-- **Investor Mobile** – Goal-based savings application
+- **Pasbanc App** – Personal & business lending platform  
+- **EmpireGoals App** – Goal-based savings application
 
 # AirQo Contributions
 
