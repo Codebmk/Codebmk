@@ -2,7 +2,7 @@
 
 📍 **Kampala, Uganda** | 🌍 **IoT Infrastructure & Fintech Systems** | 🧠 **Frontend Engineer → Product-Driven Systems Builder**
 
-> Building high-impact digital platforms powering air quality infrastructure across Africa and financial access products used at scale.
+> Building high-impact open data platforms powering air quality infrastructure in 15+ African countries and financial access products used at scale.
 
 
 ## Tech Stack
@@ -32,7 +32,42 @@
 ### Fintech Systems
 
 - **Pasbanc Mobile** – Personal & business lending platform  
-- **Investor Mobile** – Goal-based savings application  
+- **Investor Mobile** – Goal-based savings application
+
+# AirQo Contributions
+
+[![PRs Merged](https://img.shields.io/github/issues-search/airqo-platform/AirQo-frontend?query=is%3Apr%20is%3Aclosed%20author%3ACodebmk&label=PRs%20merged&color=brightgreen&style=flat-square)](https://github.com/airqo-platform/AirQo-frontend/pulls?q=is%3Apr+is%3Aclosed+author%3ACodebmk)
+[![PRs Open](https://img.shields.io/github/issues-search/airqo-platform/AirQo-frontend?query=is%3Apr%20is%3Aopen%20author%3ACodebmk&label=PRs%20open&color=blue&style=flat-square)](https://github.com/airqo-platform/AirQo-frontend/pulls?q=is%3Apr+is%3Aopen+author%3ACodebmk)
+
+A curated selection across capability areas:
+
+**🏗️ Platform Architecture**
+| PR | Description |
+|---|---|
+| [#3191](https://github.com/airqo-platform/AirQo-frontend/pull/3191) | Add Electron desktop wrapper, titlebar UX, Windows packaging, docs and changelog |
+| [#3186](https://github.com/airqo-platform/AirQo-frontend/pull/3186) | Implement SSO for Vertex and Platform web apps |
+| [#3079](https://github.com/airqo-platform/AirQo-frontend/pull/3079) | Implement permission scope–based access and navigation |
+
+**⚡ Performance & Reliability**
+| PR | Description |
+|---|---|
+| [#3073](https://github.com/airqo-platform/AirQo-frontend/pull/3073) | Enhance app initial loading performance |
+| [#3092](https://github.com/airqo-platform/AirQo-frontend/pull/3092) | Remove blocking session loader on home page |
+| [#3206](https://github.com/airqo-platform/AirQo-frontend/pull/3206) | Fix `TypeError: e.split is not a function` on admin device details page |
+
+**📡 Device & Network Management (Vertex)**
+| PR | Description |
+|---|---|
+| [#3170](https://github.com/airqo-platform/AirQo-frontend/pull/3170) | Device and site activity cards, tag creation and enhancements |
+| [#3108](https://github.com/airqo-platform/AirQo-frontend/pull/3108) | Revamp User Home Page to align with device status logic |
+| [#3094](https://github.com/airqo-platform/AirQo-frontend/pull/3094) | Add cohort management for individuals and organizations |
+
+**📚 Docs & Engineering Systems**
+| PR | Description |
+|---|---|
+| [#3166](https://github.com/airqo-platform/AirQo-frontend/pull/3166) | Digital Product Docs Website project setup |
+| [#3204](https://github.com/airqo-platform/AirQo-frontend/pull/3204) | Readme update and fix docs routing issues |
+| [#3169](https://github.com/airqo-platform/AirQo-frontend/pull/3169) | Add Dockerfile to docs-website and enhancements |
 
 
 # GitHub Activity
